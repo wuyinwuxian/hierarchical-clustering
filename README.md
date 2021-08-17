@@ -9,7 +9,7 @@
 - Complete-link </br>
 定义两个 cluster 之间的距离为两个 cluster 之间距离最远的两个对象间的距离，这样虽然避免了链式效应，但其对异常样本点（不符合数据集的整体分布的噪声点）却非常敏感，容易产生不合理的聚类；</br>
 
-UPGMA </br>
+- UPGMA </br>
 正好是 Single-link 和 Complete-link 的一个折中，其定义两个 cluster 之间的距离为两个 cluster 之间任意两个对象间的距离的平均值，所有的距离求和再平均</br>
 
 - WPGMA </br>
