@@ -14,7 +14,8 @@
 
 - UPGMA </br>
 正好是 Single-link 和 Complete-link 的一个折中，其定义两个 cluster 之间的距离为两个 cluster 之间任意两个对象间的距离的平均值，所有的距离求和再平均</br>
-![image](https://user-images.githubusercontent.com/72603715/129674996-50829bf0-4bef-460e-91b9-24847e7fc816.png)
+![image](https://user-images.githubusercontent.com/72603715/129675545-1dd7f9b9-9f1f-4b2f-bc6d-8c7d8a39f3a8.png)
+
 
 - WPGMA </br>
 计算的是两个 cluster 之间两个对象之间的距离的加权平均值，加权的目的是为了使两个 cluster 对距离的计算的影响在同一层次上，而不受 cluster 大小的影响</br>
