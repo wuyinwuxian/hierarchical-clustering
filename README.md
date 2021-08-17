@@ -40,5 +40,11 @@
 
 ![image](https://user-images.githubusercontent.com/72603715/129675416-6f8aea68-500e-4eb7-bbbc-c5ad9f941433.png)
 
+# 原始数据
+
+![image](https://github.com/wuyinwuxian/hierarchical-clustering/blob/main/hierarchical-clustering/originalData.png)
+
+
+
 # 实验结果
 ![image](https://github.com/wuyinwuxian/hierarchical-clustering/blob/main/hierarchical-clustering/clusteringResult.png)
